@@ -1,0 +1,9 @@
+node_modules
+public
+src
+.npmrc
+astro.config.mjs
+package-lock.json
+package.json
+pnpm-lock.yaml
+tsconfig.json
